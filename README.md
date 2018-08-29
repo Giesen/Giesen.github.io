@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Pfff, geloof niet dat dit te doen is... 
 
-You can use the [editor on GitHub](https://github.com/Giesen/Giesen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Wat een onzin dat dit 
+twee paragraafjes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+moet zijn
 
 ### Markdown
 
@@ -12,10 +13,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+Nee vandaag
+
 ## Header 2
+
+Grrr.. Lege regels
+
 ### Header 3
 
 - Bulleted
+
+* jep 
+
+
 - List
 
 1. Numbered
